@@ -52,17 +52,17 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-1600x900.jpg",
+                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532%20(1)-1600x900.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-85x48.png",
                 "title": "Event",
                 "text": "A Platform to create Your Event",
-                "active": false
+                "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1920x1371.png",
@@ -72,17 +72,17 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-6-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-6-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": true,
-                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-6-1600x900.jpg",
+                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532%20(6)-1600x900.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-6-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/iphone-xs-max1x-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iphone-xs-max1x-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/iphone%20xs%20max@1x-414x896.png",
@@ -92,17 +92,17 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-2-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-2-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": true,
                 "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532%20(2)-1920x1371.png",
                 "tooltip": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-2-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/welcome-screen-1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/welcome-screen-1-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": true,
                 "src": "@PROJECT_PATH@/assets/images/welcome_screen%20(1)-810x1440.jpg",
@@ -112,10 +112,10 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-5-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-5-1024x576.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-5-1600x900.jpg",
+                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532%20(5)-1600x900.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-5-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
@@ -125,7 +125,7 @@
             "fullScreen": true,
             "showCaptions": true,
             "hideControls": true,
-            "responsive": "2",
+            "responsive": "1",
             "paddingTop": 0,
             "paddingBottom": "1",
             "captionsEffect": "slide",
