@@ -276,15 +276,15 @@
             "gallery": [
               {
                 "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2019-8-0-19-21-46-357677.jpg",
                 "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoUrl": "https://youtu.be/J-pnwu0UzI8",
                 "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "EVENT",
                 "active": true
               },
               {
