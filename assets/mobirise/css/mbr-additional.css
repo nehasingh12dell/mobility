@@ -1372,43 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-rDrTO5dQVq {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rDrTO5dQVq .testimonials-container {
-  margin: 0 auto;
-}
-.cid-rDrTO5dQVq .testimonials-container .testimonials-item {
-  justify-content: center;
-  margin-top: 3rem;
-}
-.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user {
-  background: #ffffff;
-}
-.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user.row {
-  margin: 0;
-}
-.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user .user_image {
-  width: 150px;
-  height: 150px;
-  overflow: hidden;
-  margin: 2rem auto 2rem auto;
-}
-.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user .testimonials-caption {
-  padding: 2rem;
-}
-@media (max-width: 260px) {
-  .cid-rDrTO5dQVq .user_image {
-    width: 100% !important;
-    height: auto !important;
-  }
-}
 .cid-rDs2rqbBy3 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1448,45 +1411,53 @@ body {
     padding: 15px;
   }
 }
-.cid-rDs2vY1gCk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
+.cid-rDrTO5dQVq {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-rDs2vY1gCk h2 {
-  text-align: center;
+.cid-rDrTO5dQVq .testimonials-container {
+  margin: 0 auto;
 }
-.cid-rDs2vY1gCk h4 {
-  text-align: center;
-  z-index: 1;
-  color: #ffffff;
+.cid-rDrTO5dQVq .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
 }
-.cid-rDs2vY1gCk p {
-  z-index: 1;
-  margin-bottom: 0;
-  color: #ffffff;
+.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user {
+  background: #efefef;
 }
-.cid-rDs2vY1gCk .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
+.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user.row {
+  margin: 0;
 }
-.cid-rDs2vY1gCk .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
+.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
   overflow: hidden;
+  margin: 2rem auto 2rem auto;
 }
-.cid-rDs2vY1gCk .card-img img {
-  z-index: -1;
-  min-height: 100%;
+.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
   min-width: 100%;
-  width: auto;
-  max-width: 600px;
+  min-height: 100%;
 }
-.cid-rDrF4vGzgr {
-  background-image: url("../../../assets/images/jumbotron.jpg");
+.cid-rDrTO5dQVq .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-rDrTO5dQVq .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rDrTO5dQVq .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-rDrTO5dQVq .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rDrTO5dQVq B {
+  color: #232323;
 }
