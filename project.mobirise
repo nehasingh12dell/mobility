@@ -99,7 +99,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-2-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/welcome-screen-1-1600x900.jpg",
@@ -119,7 +119,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-5-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               }
             ],
             "fullScreen": true,
@@ -127,7 +127,7 @@
             "hideControls": true,
             "responsive": "2",
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "captionsEffect": "slide",
             "showBullets": false,
             "bgColor": "#ffffff",
