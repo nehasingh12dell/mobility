@@ -1375,7 +1375,6 @@ body {
 .cid-rDrTO5dQVq {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-rDrTO5dQVq .testimonials-container {
   margin: 0 auto;
@@ -1403,7 +1402,6 @@ body {
 }
 .cid-rDrTO5dQVq .testimonials-container .testimonials-item .user .testimonials-caption {
   padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
 }
 @media (max-width: 260px) {
   .cid-rDrTO5dQVq .user_image {
@@ -1411,10 +1409,83 @@ body {
     height: auto !important;
   }
 }
-@media (max-width: 767px) {
-  .cid-rDrTO5dQVq .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
+.cid-rDs2rqbBy3 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rDs2rqbBy3 .card-img {
+  background-color: #fff;
+}
+.cid-rDs2rqbBy3 .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-rDs2rqbBy3 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rDs2rqbBy3 p {
+  text-align: left;
+}
+.cid-rDs2rqbBy3 .mbr-text {
+  color: #767676;
+}
+.cid-rDs2rqbBy3 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rDs2rqbBy3 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rDs2rqbBy3 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
   }
+}
+.cid-rDs2vY1gCk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rDs2vY1gCk h2 {
+  text-align: center;
+}
+.cid-rDs2vY1gCk h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+}
+.cid-rDs2vY1gCk p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-rDs2vY1gCk .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rDs2vY1gCk .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rDs2vY1gCk .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
 }
 .cid-rDrF4vGzgr {
   background-image: url("../../../assets/images/jumbotron.jpg");
