@@ -56,17 +56,17 @@
             "theme": "animated",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-1024x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-1024x576.jpg",
+                "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532%20(1)-1024x576.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-1-85x48.png",
                 "title": "Engage",
                 "text": "Your Outlock on your mobile",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-2-1024x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-2-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532%20(2)-1920x1371.png",
@@ -76,7 +76,7 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-3-1024x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532-3-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": true,
                 "src": "@PROJECT_PATH@/assets/images/mockup-of-an-iphone-xs-held-by-a-man-outside-25532%20(3)-1920x1371.png",
@@ -89,7 +89,7 @@
             "fullScreen": true,
             "showCaptions": true,
             "hideControls": true,
-            "responsive": "1",
+            "responsive": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
             "captionsEffect": "slide",
