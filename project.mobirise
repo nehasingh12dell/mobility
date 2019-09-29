@@ -36,7 +36,7 @@
     "versionPublish": "4.8.1",
     "favicon": "@PROJECT_PATH@/assets/images/dell-logo-blue-rgb-319x319-128x128.png",
     "noImageResize": "",
-    "google-analytics": "To use the Google Analytics please use the following amp snippet: \r\n<amp-analytics type=\"googleanalytics\" id=\"analytics1\">     \r\n<script type=\"application/json\"> \r\n{\r\n  \"vars\": { \r\n    \"account\": \"UA-XXXXX-Y\" \r\n  }, \r\n  \"triggers\": { \r\n    \"trackPageview\": { \r\n      \"on\": \"visible\", \r\n      \"request\": \"pageview\" \r\n    } \r\n  } \r\n} \r\n</script> \r\n</amp-analytics>"
+    "google-analytics": "<amp-analytics type=\"googleanalytics\" id=\"analytics1\">     \r\n<script type=\"application/json\"> \r\n{\r\n  \"vars\": { \r\n    \"account\": \"UA-XXXXX-Y\" \r\n  }, \r\n  \"triggers\": { \r\n    \"trackPageview\": { \r\n      \"on\": \"visible\", \r\n      \"request\": \"pageview\" \r\n    } \r\n  } \r\n} \r\n</script> \r\n</amp-analytics>"
   },
   "pages": {
     "index.html": {
