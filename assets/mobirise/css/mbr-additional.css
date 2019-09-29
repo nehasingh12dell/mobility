@@ -1528,15 +1528,3 @@ body {
     padding: 15px;
   }
 }
-.cid-rDsUbBj1Wv {
-  background: #ffffff;
-}
-.cid-rDsUbBj1Wv .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rDsUbBj1Wv .video-block {
-    width: 100% !important;
-  }
-}
