@@ -48,7 +48,7 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "carousel_basic",
+            "animType": "carousel",
             "theme": "boundary",
             "slides": [
               {
@@ -59,7 +59,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip3.jpg",
                 "title": "Dell Event App",
                 "text": "Event App is used in all Dell Events/conference",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
@@ -78,7 +78,8 @@
                 "src": "@PROJECT_PATH@/assets/images/slide1.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/tooltip1.jpg",
                 "title": "title 3",
-                "text": "text 3"
+                "text": "text 3",
+                "active": true
               }
             ],
             "fullScreen": true,
