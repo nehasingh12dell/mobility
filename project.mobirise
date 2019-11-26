@@ -476,7 +476,7 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/img_vapprove-1080x720.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/img-vapprove-85x48.png",
-                "title": "title 2",
+                "title": "V Approve",
                 "text": "text 2",
                 "active": false
               },
@@ -486,7 +486,7 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/img_myguest-1080x720.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/img-myguest-85x48.png",
-                "title": "title 3",
+                "title": "MyGuest",
                 "text": "text 3",
                 "active": true
               }
